@@ -16,4 +16,4 @@ JavaScript · Node.js · React · MongoDB · Git
 TypeScript · Automated testing · Open-source contributions
 
 ## Connect 🔗  
-[github.com/manulzvz](https://github.com/manulzvz) · [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+[github.com/manulzvz](https://github.com/manulzvz) · [linkedin.com/in/manulzvz](https://linkedin.com/in/manulzvz)
