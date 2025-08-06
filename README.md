@@ -1,8 +1,8 @@
-# Manuel López  
+# Manuel López 🚀  
 Self-taught Full Stack Developer
 
 ## About Me
-I build real-world applications using JavaScript, Node.js, React and MongoDB. I’m passionate about hands-on learning, documenting my progress and helping others on their tech journey.
+I build real-world applications with JavaScript, Node.js, React and MongoDB. I’m passionate about hands-on learning, documenting my progress and helping others on their tech journey.
 
 ## Current Focus
 - Developing personal web projects  
@@ -21,7 +21,6 @@ I build real-world applications using JavaScript, Node.js, React and MongoDB. I�
 - Contribute to open-source and collaborative projects  
 - Continue learning and delivering impactful solutions  
 
-## Connect
+## Connect 🔗
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - GitHub: [github.com/manulzvz](https://github.com/manulzvz)  
-
