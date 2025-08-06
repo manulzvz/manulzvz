@@ -1,27 +1,27 @@
-# 👋 ¡Hola! Soy Manuel
+# Manuel López  
+Self-taught Full Stack Developer
 
-Soy un **Full Stack Developer autodidacta**, actualmente aprendiendo y construyendo proyectos reales con **JavaScript, Node.js, React y MongoDB**.
+## About Me
+I build real-world applications using JavaScript, Node.js, React and MongoDB. I’m passionate about hands-on learning, documenting my progress and helping others on their tech journey.
 
-Me gusta aprender haciendo, documentar mi progreso y compartirlo con otros que también están comenzando su camino en tech.
+## Current Focus
+- Developing personal web projects  
+- Advancing backend architecture and database design skills  
+- Sharing insights on LinkedIn and GitHub  
 
-### 🚀 Actualmente estoy:
-- Construyendo proyectos personales de desarrollo web
-- Profundizando en arquitectura backend y bases de datos
-- Compartiendo aprendizajes en LinkedIn y GitHub
+## Technologies
+- JavaScript  
+- Node.js  
+- React  
+- MongoDB  
+- Git  
 
-### 🛠️ Tecnologías que estoy usando
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+## Next Steps
+- Master TypeScript and automated testing  
+- Contribute to open-source and collaborative projects  
+- Continue learning and delivering impactful solutions  
 
-### 🌱 Próximos pasos:
-- Aprender TypeScript y testing
-- Participar en proyectos colaborativos
-- Seguir aprendiendo y creando
+## Connect
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- GitHub: [github.com/manulzvz](https://github.com/manulzvz)  
 
----
-
-📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/manulzvz)  
-💻 Mira mis proyectos aquí en GitHub
