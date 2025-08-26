@@ -1,20 +1,41 @@
-# Manuel López 🚀  
-Self-taught Full Stack Developer
+# Manuel López 
+**Self-taught Front End Developer**
 
-## About Me  
-Building real-world web apps with JavaScript, Node.js, React & MongoDB.
 
-## Focus  
-- Personal projects & demos  
-- Backend architecture & database design  
-- Sharing insights on GitHub & LinkedIn
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
+![Node.js](https://img.shields.io/badge/Node.js-14.x-green) 
+![React](https://img.shields.io/badge/React-18-blue) 
+![MongoDB](https://img.shields.io/badge/MongoDB-5.0-brightgreen)
 
-## Tech  
-JavaScript · Node.js · React · MongoDB · Git
+---
 
-## Next Steps  
-TypeScript · Automated testing · Open-source contributions
+## About Me
+I love building **real-world web applications** using **JavaScript**, **Node.js**, **React**, and **MongoDB**.  
+I enjoy creating projects that solve problems, experimenting with new technologies, and sharing my learnings with the developer community.
 
-## Connect 🔗  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manulzvz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manulzvz)
+---
+
+## Focus
+-  Datletix Startup 
+-  Personal projects & demos
+-  Backend architecture & database design  
+-  Sharing insights on GitHub & LinkedIn  
+
+---
+
+## Tech Stack
+**Languages & Frameworks:** JavaScript · Node.js · React  
+**Databases:** MongoDB  
+**Tools:** Git  
+
+---
+
+## Next Steps
+- Open-source contributions  
+
+---
+
+## Connect with Me 🔗
+[GitHub](https://github.com/manulzvz) · [LinkedIn](https://www.linkedin.com/in/manulzvz)
+
+
