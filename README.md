@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-I love building **real-world web applications** using **JavaScript**, **Node.js**, **React**, and **MongoDB**.  
+I love building **real-world web applications** using **JavaScript**, **Node.js**, **React**, **Next.js** and **MongoDB**.  
 I enjoy creating projects that solve problems, experimenting with new technologies, and sharing my learnings with the developer community.
 
 ---
@@ -24,7 +24,7 @@ I enjoy creating projects that solve problems, experimenting with new technologi
 ---
 
 ## Tech Stack
-**Languages & Frameworks:** JavaScript · Node.js · React  
+**Languages & Frameworks:** JavaScript · Node.js · React · Next.js
 **Databases:** MongoDB  
 **Tools:** Git  
 
