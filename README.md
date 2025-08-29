@@ -36,6 +36,6 @@ I enjoy creating projects that solve problems, experimenting with new technologi
 ---
 
 ## Connect with Me 🔗
-[GitHub](https://github.com/manulzvz) · [LinkedIn](https://www.linkedin.com/in/manulzvz)
+[GitHub](https://github.com/manulzvz) · [LinkedIn](https://www.linkedin.com/in/manulzvz) · [Portfolio](https://byte-blog-frontend.vercel.app/)
 
 
