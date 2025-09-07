@@ -1,6 +1,6 @@
 # Manuel López
 
-**Self-taught Front End Developer**
+**Self-taught Software Developer**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
@@ -12,14 +12,12 @@
 
 ## About Me
 
-I love building **real-world web applications** using **JavaScript**, **Node.js**, **React**, **Next.js** and **MongoDB**.  
-I enjoy creating projects that solve problems, experimenting with new technologies, and sharing my learnings with the developer community.
+[![](https://github.com/manulzvz/manulzvz/blob/main/chat.svg)]
 
 ---
 
 ## Focus
 
-- Datletix Startup
 - Personal projects & demos
 - Backend architecture & database design
 - Sharing insights on GitHub & LinkedIn
@@ -31,12 +29,6 @@ I enjoy creating projects that solve problems, experimenting with new technologi
 **Languages & Frameworks:** JavaScript · Node.js · React · Next.js
 **Databases:** MongoDB  
 **Tools:** Git
-
----
-
-## Next Steps
-
-- Open-source contributions
 
 ---
 
