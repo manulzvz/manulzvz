@@ -12,7 +12,7 @@
 
 ## About Me
 
-(<https://github.com/manulzvz/manulzvz/blob/main/chat.svg>)
+[![](https://github.com/ishandutta2007/manulzvz/blob/main/chat.svg)](#about-me)
 
 ---
 
