@@ -14,12 +14,6 @@
 
 [![](https://github.com/manulzvz/manulzvz/blob/main/chat.svg)](https://github.com/manulzvz)
 
-## Focus
-
-- Personal projects & demos
-- Backend architecture & database design
-- Sharing insights on GitHub & LinkedIn
-
 ---
 
 ## Tech Stack
