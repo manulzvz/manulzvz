@@ -27,7 +27,9 @@
 ## Tech Stack
 
 **Languages & Frameworks:** JavaScript · Node.js · React · Next.js
-**Databases:** MongoDB  
+
+**Databases:** MongoDB
+
 **Tools:** Git
 
 ---
